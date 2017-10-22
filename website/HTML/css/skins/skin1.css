@@ -1,0 +1,28 @@
+.theme-color,
+.timer-btn {
+	color: #6f2de4;
+}
+
+.theme-bg,
+.video-btn,
+.video-btn:after,
+.stie-btn-solid,
+.subform .subform-btn:hover {
+	background: #6f2de4;
+}
+
+.theme-sbg,
+.video-btn:hover,
+.stie-btn-solid:hover,
+.timer-btn:hover {
+	background: #602abf;
+}
+
+.theme-bdr {
+	border-color: #6f2de4;
+}
+
+.theme-sbdr,
+.timer-btn:hover {
+	border-color: #602abf;
+}
